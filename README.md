@@ -41,7 +41,6 @@ NumPy
 2.  Install Dependencies:
 
 ```bash
-  Copy code
   pip install -r requirements.txt
 ```
 
